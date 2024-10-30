@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: C4D Woo Boost Sales\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-18 03:11+0000\n"
+"PO-Revision-Date: 2019-06-18 03:12+0000\n"
+"Last-Translator: admin <yourname@yourdomain.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.1"
+
+#: includes/default.php:138
+msgid "Auto get products in sample category for up/cross sell"
+msgstr ""
+
+#: includes/default.php:149
+msgid "Auto get products in sample tags for up/cross sell"
+msgstr ""
+
+#: includes/default.php:76
+msgid "Boost Sales"
+msgstr ""
+
+#. Name of the plugin
+msgid "C4D Woo Boost Sales"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"C4D WooCommerce Variation Swatches can show product variation items in "
+"images, colors, and label."
+msgstr ""
+
+#. Author of the plugin
+msgid "Coffee4dev.com"
+msgstr ""
+
+#: includes/default.php:209 includes/default.php:279
+msgid "Column"
+msgstr ""
+
+#: includes/cart.php:383 includes/default.php:230
+msgid "Cross Sell"
+msgstr ""
+
+#: includes/default.php:103
+msgid "Cross Sell Only"
+msgstr ""
+
+#: includes/category.php:39 includes/category.php:66
+msgid "Cross-Sell"
+msgstr ""
+
+#: includes/product-options.php:32
+msgid "Cross-sells From Category"
+msgstr ""
+
+#: includes/product-options.php:18
+msgid "Cross-sells From Tags"
+msgstr ""
+
+#: includes/default.php:218 includes/default.php:288
+msgid "Date"
+msgstr ""
+
+#: includes/default.php:186 includes/default.php:256 includes/default.php:449
+#: includes/default.php:487
+msgid "Description"
+msgstr ""
+
+#: includes/default.php:397
+msgid "Email: Complete Order"
+msgstr ""
+
+#: includes/default.php:407
+msgid "Email: Customer Note"
+msgstr ""
+
+#: includes/default.php:387
+msgid "Email: Process Order"
+msgstr ""
+
+#: includes/default.php:137
+msgid "Get From Category"
+msgstr ""
+
+#: includes/default.php:148
+msgid "Get From Tags"
+msgstr ""
+
+#: includes/default.php:83
+msgid "Global"
+msgstr ""
+
+#: includes/default.php:192 includes/default.php:262 includes/default.php:455
+#: includes/default.php:493
+msgid "Hide Description"
+msgstr ""
+
+#: includes/default.php:176 includes/default.php:246 includes/default.php:439
+#: includes/default.php:477
+msgid "Hide Title"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://coffee4dev.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://coffee4dev.com/woocommerce-variation-swatches/"
+msgstr ""
+
+#: includes/default.php:219 includes/default.php:289
+msgid "Id"
+msgstr ""
+
+#: includes/category.php:29 includes/category.php:53
+msgid ""
+"Insert categories to get products when product of this category show the "
+"cross-sell products. Separate by comma."
+msgstr ""
+
+#: includes/category.php:28 includes/category.php:52
+msgid ""
+"Insert categories to get products when product of this category show the "
+"upsell products. Separate by comma."
+msgstr ""
+
+#: includes/product-options.php:34
+msgid ""
+"Insert categories which you recommend instead of the current category of "
+"this product. Separate by comma."
+msgstr ""
+
+#: includes/product-options.php:28
+msgid ""
+"Insert categories which you recommend instead of the current product's "
+"category to get upsell product. Separate by comma."
+msgstr ""
+
+#: includes/category.php:26 includes/category.php:50
+msgid ""
+"Insert tags to get products when product of this tag show the cross-sell "
+"products. Separate by comma."
+msgstr ""
+
+#: includes/category.php:25 includes/category.php:49
+msgid ""
+"Insert tags to get products when product of this tag show the upsell "
+"products. Separate by comma."
+msgstr ""
+
+#: includes/product-options.php:14 includes/product-options.php:20
+msgid ""
+"Insert tags which you recommend instead of the current tags of this product. "
+"Separate by comma."
+msgstr ""
+
+#: includes/default.php:101 includes/default.php:114 includes/default.php:124
+#: includes/default.php:141 includes/default.php:152 includes/default.php:179
+#: includes/default.php:195 includes/default.php:249 includes/default.php:265
+#: includes/default.php:390 includes/default.php:400 includes/default.php:410
+#: includes/default.php:420 includes/default.php:442 includes/default.php:458
+#: includes/default.php:480 includes/default.php:496
+msgid "No"
+msgstr ""
+
+#: includes/default.php:202 includes/default.php:272
+msgid "Number"
+msgstr ""
+
+#: includes/default.php:216 includes/default.php:286
+msgid "Orderby"
+msgstr ""
+
+#: includes/default.php:371
+msgid "Pages"
+msgstr ""
+
+#: includes/default.php:222 includes/default.php:292
+msgid "Price"
+msgstr ""
+
+#: includes/default.php:220 includes/default.php:290
+msgid "Random"
+msgstr ""
+
+#: includes/default.php:121
+msgid "Show in Cart Page"
+msgstr ""
+
+#: includes/default.php:111
+msgid "Show in Mini Cart"
+msgstr ""
+
+#: includes/default.php:99
+msgid "Show Up Sell & Cross Sell"
+msgstr ""
+
+#: includes/default.php:417
+msgid "Thankyou Page"
+msgstr ""
+
+#: includes/default.php:170 includes/default.php:221 includes/default.php:240
+#: includes/default.php:291 includes/default.php:433 includes/default.php:471
+msgid "Title"
+msgstr ""
+
+#: includes/cart.php:485 includes/default.php:160
+msgid "Up Sell"
+msgstr ""
+
+#: includes/default.php:104
+msgid "Up Sell & Cross Sell"
+msgstr ""
+
+#: includes/default.php:102
+msgid "Up Sell Only"
+msgstr ""
+
+#: includes/category.php:34 includes/category.php:59
+msgid "Upsell"
+msgstr ""
+
+#: includes/product-options.php:26
+msgid "Upsells From Category"
+msgstr ""
+
+#: includes/product-options.php:12
+msgid "Upsells From Tags"
+msgstr ""
+
+#: includes/default.php:113 includes/default.php:123 includes/default.php:140
+#: includes/default.php:151 includes/default.php:178 includes/default.php:194
+#: includes/default.php:248 includes/default.php:264 includes/default.php:389
+#: includes/default.php:399 includes/default.php:409 includes/default.php:419
+#: includes/default.php:441 includes/default.php:457 includes/default.php:479
+#: includes/default.php:495
+msgid "Yes"
+msgstr ""
